@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "近畿大学の紹介"
 author: default
 permalink: /
 ---
